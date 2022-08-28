@@ -1,0 +1,61 @@
+body {
+  left: 0;
+  top: 0;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.heading1 {
+  color: #0D8CCD;
+  font-size: 16px;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+}
+.MuiRadio-colorSecondary.Mui-checked {
+  color: rgb(227, 26, 137) !important;
+}
+.MuiTab-textColorInherit.Mui-selected {
+  background-color: rgb(227, 26, 137) !important;
+  color: #fff;
+  
+}
+.PrivateTabIndicator-colorSecondary-22{
+  background-color: transparent !important;
+}
+.MuiOutlinedInput-adornedStart{
+  padding-left: 0px !important;
+}
+.MuiTab-root {
+  min-width : 0px !important ;
+  min-height:0px !important;
+}
+
+.MuiBox-root {
+  padding: 0px !important;
+}
+.MuiBox-root {
+  padding: 0px !important;
+}
+
+.textbox h1 {
+  color: red;
+}
+.textbox h1:hover {
+  color: black;
+}
+
+.MuiContainer-root{
+  
+}
+.react-tel-input .flag-dropdown {
+  background-color: #242526 !important;
+  border-radius: 10px 0 0 10px !important;
+  border: 1px solid #555555 !important;
+}
+.MuiTab-root{
+  line-height: 0.75 !important;
+  border-radius: 7px !important;
+}
+/*# sourceMappingURL=main.css.map */
